@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Samantha Green",
+    "birthday": "1994-03-15",
+    "level": "Intern",
+    "salary": 850
+  },
+  {
+    "name": "Michael Smith",
+    "birthday": "1989-09-25",
+    "level": "Associate",
+    "salary": 1400
+  },
+  {
+    "name": "Claire Adams",
+    "birthday": "1984-04-10",
+    "level": "Intermediate",
+    "salary": 2900
+  },
+  {
+    "name": "James Taylor",
+    "birthday": "1981-01-18",
+    "level": "Lead",
+    "salary": 5200
+  },
+  {
+    "name": "Nina Patel",
+    "birthday": "1993-07-05",
+    "level": "Intermediate",
+    "salary": 3100
+  },
+  {
+    "name": "Daniel Chen",
+    "birthday": "1987-11-30",
+    "level": "Associate",
+    "salary": 1600
+  },
+  {
+    "name": "Robert Wilson",
+    "birthday": "1982-08-23",
+    "level": "Lead",
+    "salary": 6200
+  },
+  {
+    "name": "Emma Garcia",
+    "birthday": "1999-02-14",
+    "level": "Intern",
+    "salary": 950
+  },
+  {
+    "name": "Kevin Johnson",
+    "birthday": "1990-05-07",
+    "level": "Intermediate",
+    "salary": 2700
+  },
+  {
+    "name": "Rachel Lee",
+    "birthday": "1985-12-16",
+    "level": "Lead",
+    "salary": 6200
+  }
+]
